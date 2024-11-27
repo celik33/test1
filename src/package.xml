@@ -28,5 +28,10 @@
         <members>*</members>
         <name>StaticResource</name>
     </types>
+    <types>
+        <members>Account.Active__c</members>
+        <members>Contact.Activated__c</members>
+        <name>CustomField</name>
+    </types>
     <version>62.0</version>
 </Package>
